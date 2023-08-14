@@ -1,3 +1,8 @@
+# You can see live site by clicking on the [`link`](https://carhub-nextjs-1h3h.vercel.app/)
+
+![Alt text](public/home.png)
+![Alt text](public/hero.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
