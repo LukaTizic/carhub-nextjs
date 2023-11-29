@@ -3,9 +3,11 @@ This is a `Rent a Car 🚙` project with [`Demo-link`](https://carhub-nextjs-1h3
 </br>
 
 # <h3 align="center">Hero section / Landing page</h3>
-
 ![Alt text](public/home.png)
+ # <h3 align="center">Catalogue section</h3>
 ![Alt text](image-1.png)
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
