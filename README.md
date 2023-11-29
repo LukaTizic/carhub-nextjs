@@ -2,6 +2,7 @@ This is a `Rent a Car 🚙` project with [`Demo-link`](https://carhub-nextjs-1h3
 
 </br>
 
+# <h3 align="center">Hero section / Landing page</h3>
 
 ![Alt text](public/home.png)
 ![Alt text](image-1.png)
