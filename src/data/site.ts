@@ -3,14 +3,14 @@
 // Assumptions:
 // - CarHub is a demo: nothing can actually be booked, and the site says so where it matters.
 // - Prices are examples in euros; specs are each model's published figures, rounded.
-// - site.url is the current Vercel address; credit.href points to the GitHub profile.
+// - site.url is the current Vercel address; credit.href points to the portfolio, semperor.dev.
 
 export const site = {
   name: 'CarHub',
   url: 'https://carhub-nextjs-1h3h.vercel.app',
   title: 'CarHub: rent a car, see it drawn to scale',
   description: 'Thirty cars to rent by the day, from a Fiat 500 to a Ford Ranger, each drawn to scale from its real measurements so you can compare before you book.',
-  credit: { name: 'Semperor', href: 'https://github.com/LukaTizic' },
+  credit: { name: 'Semperor', href: 'https://semperor.dev' },
 };
 
 export const hero = {
